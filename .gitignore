@@ -23,3 +23,8 @@
 hs_err_pid*
 
 nohup.out
+
+# replit BS
+.cache/replit/__replit_disk_meta.json
+.cache/replit/nix/env.json
+replit.nix
